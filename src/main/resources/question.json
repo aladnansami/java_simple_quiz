@@ -1,0 +1,180 @@
+[
+    {
+      "question":"1.Which testing is done by developer?",
+      "Option a":"a.Unit Testing",
+      "Option b":"b.Integration Testing",
+      "Option c":"c.Sanity Testing",
+      "Option d":"d.Regression Testing",
+      "answer":"a"
+    },
+    {
+
+      "question":"2.Which is functional testing?",
+      "Option a":"a.Load Testing",
+      "Option b":"b.Security Testing",
+      "Option c":"c.Gorilla Testing",
+      "Option d":"d.Benchmark Testing",
+      "answer":"c"
+    },
+    {
+
+      "question":"3.Which term is used to define testing?",
+      "Option a":"a.Evaluating deliverable to find errors",
+      "Option b":"b.Finding broken code",
+      "Option c":"c.A stage of all projects",
+      "Option d":"d.None of the above",
+      "answer":"a"
+    },
+    {
+      "question":"4.Which methodology is used to performed Maintenance testing?",
+      "Option a":"a.Breadth test and depth test",
+      "Option b":"b.Confirmation testing",
+      "Option c":"c.Retesting",
+      "Option d":"d.Sanity testing",
+      "answer":"a"
+    },
+    {
+
+      "question":"5.Which of the following is not part of the Test document?",
+      "Option a":"a.Test Case",
+      "Option b":"b.Requirements Traceability Matrix [RTM]",
+      "Option c":"c.Test strategy",
+      "Option d":"d.Project Initiation Note [PIN]",
+      "answer":"d"
+    },
+    {
+
+      "question":"6.Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+      "Option a":"a.Testing Phase",
+      "Option b":"b.Requirement Phase",
+      "Option c":"c.Deployment phase",
+      "Option d":"d.Testing closure",
+      "answer":"d"
+    },
+    {
+
+      "question":"7.Which of the following testing is also known as white-box testing?",
+      "Option a":"a.Structural testing",
+      "Option b":"b.Error guessing technique",
+      "Option c":"c.Design based testing",
+      "Option d":"d.None of the above",
+      "answer":"a"
+    },
+    {
+
+      "question":"8.Which of the following testing is related to the boundary value analysis?",
+      "Option a":"a.White box and black box testing",
+      "Option b":"b.White-box testing",
+      "Option c":"c.Black box testing",
+      "Option d":"d.None of the above",
+      "answer":"c"
+    },
+    {
+
+      "question":"9.Functional testing is a ?",
+      "Option a":"a.Test design technique",
+      "Option b":"b.Test level",
+      "Option c":"c.SDLC Model",
+      "Option d":"d.Test type",
+      "answer":"d"
+    },
+    {
+
+      "question":"10.What are the different levels of Testing?",
+      "Option a":"a.Integration testing",
+      "Option b":"b.Unit testing",
+      "Option c":"c.System testing",
+      "Option d":"d.All of the above",
+      "answer":"d"
+    },
+    {
+
+      "question":"11.Sanity testing is a ------",
+      "Option a":"a.Test type",
+      "Option b":"b.Test Execution Level",
+      "Option c":"c.Test Level",
+      "Option d":"d.Test design technique",
+      "answer":"b"
+    },
+    {
+
+      "question":"12.White box testing techniques are?",
+      "Option a":"a.Statement coverage testing",
+      "Option b":"b.Decision coverage testing",
+      "Option c":"c.Data flow testing",
+      "Option d":"d.All of the above",
+      "answer":"d"
+    },
+    {
+
+      "question":"13.In which environment we can performed the Alpha testing?",
+      "Option a":"a.User's end",
+      "Option b":"b.Developer's end",
+      "Option c":"c.User's and developer's end",
+      "Option d":"d.None of the above",
+      "answer":"b"
+    },
+    {
+
+      "question":"14.Which of the below is not a part of the Test Plan?",
+      "Option a":"a.Schedule",
+      "Option b":"b.Risk",
+      "Option c":"c.Incident reports",
+      "Option d":"d.Entry and exit criteria",
+      "answer":"c"
+    },
+    {
+
+      "question":"15.What is the key objective of Integration testing?",
+      "Option a":"a.Design Errors",
+      "Option b":"b.Interface Errors",
+      "Option c":"c.Procedure Errors",
+      "Option d":"d.None of the mentioned",
+      "answer":"b"
+    },
+    {
+
+      "question":"16.Exploratory testing is a -----?",
+      "Option a":"a.Experience-based Test Design Technique",
+      "Option b":"b.White Box Test Design Technique",
+      "Option c":"c.Black Box Test Design Technique",
+      "Option d":"d.Grey Box Test Design Technique",
+      "answer":"a"
+    },
+    {
+
+      "question":"17.What is the best time to perform Regression testing?",
+      "Option a":"a.After the software has been modified",
+      "Option b":"b.As frequently as possible",
+      "Option c":"c.When the environment has been modified",
+      "Option d":"d.Both option a & c",
+      "answer":"d"
+    },
+    {
+
+      "question":"18.Which of the following is not part of the Test type?",
+      "Option a":"a.Function testing",
+      "Option b":"b.System testing",
+      "Option c":"c.Statement testing",
+      "Option d":"d.Database testing",
+      "answer":"c"
+    },
+    {
+
+      "question":"19.Which Test Document is used to define the Exit Criteria of Testing?",
+      "Option a":"a.Defect Report",
+      "Option b":"b.Test Summary Report",
+      "Option c":"c.Test Case",
+      "Option d":"d.Test Plan",
+      "answer":"d"
+    },
+    {
+
+      "question":"20.Which testing technique is used for usability testing?",
+      "Option a":"a.Exit Criteria",
+      "Option b":"b.How much regression testing should be done?",
+      "Option c":"c.Different Tools to perform Regression Testing",
+      "Option d":"d.How many more test cases need to write?",
+      "answer":"b"
+    }
+  ]
