@@ -1,16 +1,17 @@
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
+import org.json.JSONArray;
+import org.json.JSONObject;
 import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
+import org.json.simple.parser.ParseException
 
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.text.ParseException;
 import java.util.Scanner;
 
     public class Quiz {
 
-        public static void main(String[] args) throws IOException, ParseException {
+        public static void main(String[] args) throws IOException, ParseException{
             Scanner input = new Scanner(System.in);
             System.out.println("1.Add Quiz\n2.Start Quiz");
             System.out.print("Select one: ");
@@ -23,7 +24,7 @@ import java.util.Scanner;
                 startQuiz();
             }
         }
-        private static void quizBank() throws IOException, ParseException, IOException, ParseException {
+        private static void quizBank() throws IOException, ParseException{
             char ch ='y';
             String filePath="./src/main/resources/QuestionBank.json";
             do {
@@ -60,7 +61,7 @@ import java.util.Scanner;
             while(ch!='n');
         }
 
-        public static void startQuiz() throws IOException, ParseException {
+        public static void startQuiz() throws IOException, ParseException{
             int point = 0;
 
             String filePath="./src/main/resources/question.json";
