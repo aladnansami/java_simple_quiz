@@ -36,7 +36,7 @@ User> a<br>
 System> Correct!<br>
 else not correct,<br>
 System: Not correct<br>
-
+<br>
 
 Finally 5 different random questions will appear from your question database. At least add 20 questions from any category from testing.
 Result: You got [correct_marks] out of 5<br>
